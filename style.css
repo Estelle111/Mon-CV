@@ -1,0 +1,108 @@
+.page {
+    width: 830px;
+    margin: auto;
+    font-size: 16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/* strong {
+    font-size: 17px;
+} */
+
+.left {
+    margin-right: 0px;
+    background-color: #D7DDDA;
+    width: 300px;
+    border-radius: 10px;
+    padding: 10px 10px 10px 10px;
+    float: left;
+}
+
+.info {
+    margin-bottom: 50px;
+    text-align: justify;
+}
+
+.contact {
+    margin-bottom: 50px;
+    text-align: justify;
+}
+
+.formation {
+    margin-bottom: 50px;
+    text-align: justify;
+}
+
+.competance {
+    margin-bottom: 50px;
+    text-align: justify;
+}
+
+.lignegauche {
+    border: 1px solid #f3f4f3;
+    border-left: none;
+    border-right: none;
+}
+
+.right {
+    margin-left: 2px;
+    width: 450px;
+    border-radius: 10px;
+    padding: 10px 10px 10px 10px;
+    float: right;
+    background-color: #f3f4f3;
+}
+
+.nomphoto {
+    height: 200px;
+}
+
+.nom {
+    margin-top: 16px;
+    width: 70%;
+    float: left;
+    text-align: center;
+}
+
+.nomtexte {
+    font-size: 28px;
+}
+
+.titretexte {
+    font-size: 22px;
+}
+
+.photo {
+    margin-top: 20px;
+    width:120px;
+    border-radius: 10px;
+    float: right;
+}
+
+.experience {
+    margin-top: 9px;
+    margin-bottom: 36px;
+    text-align: justify;
+    float: right;
+}
+
+.stage {
+    margin-bottom: 122px;
+    text-align: justify;
+    float: right;
+}
+
+.lignedroite {
+    border: 1px solid #D7DDDA;
+    border-left: none;
+    border-right: none;
+}
+
+.github {
+    text-decoration: none;
+    color: white;
+}
+
+.github:hover {
+    color: black;
+}
