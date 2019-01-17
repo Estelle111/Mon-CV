@@ -44,6 +44,14 @@
     border-right: none;
 }
 
+.hovergauche {
+    color: black;
+}
+
+.hovergauche:hover {
+    color: #f3f4f3
+}
+
 .right {
     margin-left: 2px;
     width: 450px;
@@ -68,8 +76,16 @@
     font-size: 28px;
 }
 
+.nomtexte:hover {
+    color: #acb0ae;
+}
+
 .titretexte {
     font-size: 22px;
+}
+
+.titretexte:hover {
+    color: #c1c6c4;
 }
 
 .photo {
@@ -96,6 +112,14 @@
     border: 1px solid #D7DDDA;
     border-left: none;
     border-right: none;
+}
+
+.hoverdroite {
+    color: black;
+}
+
+.hoverdroite:hover {
+    color: #D7DDDA
 }
 
 .github {
