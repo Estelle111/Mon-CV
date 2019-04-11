@@ -5,3 +5,9 @@
 ## Tools
 * html
 * css
+
+## During
+BeCode training, 2019
+
+## Author
+Estelle Mol
