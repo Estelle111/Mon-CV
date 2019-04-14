@@ -59,7 +59,8 @@ body {
   .frEn .linkNav {
     text-decoration: none;
     color: #4b4b4c;
-    font-weight: bold; }
+    font-weight: bold;
+    margin: 2% 2% 0 0; }
 
 .profileCard {
   display: flex;
